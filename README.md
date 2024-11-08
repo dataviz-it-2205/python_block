@@ -1,5 +1,7 @@
 # Python Block
 
+source: https://colab.research.google.com/drive/1rlj_0ZpBHKHDlitm0EMzvhuNSNbnO7zr?usp=sharing
+
 ## Проверка данных
 ![alt text](imgs/image.png)
 
